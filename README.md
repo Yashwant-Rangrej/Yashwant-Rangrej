@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Learning 
+I'm currently pursuing Diploma in Artificial intelligence and Machine learning and I'm passionate in learning AIML concepts and technologies
 
 
 ## 🌐 Socials:   
