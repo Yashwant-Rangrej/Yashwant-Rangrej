@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing Diploma in Artificial intelligence and Machine learning and I'm passionate in learning AIML concepts and technologies
+I am currently pursuing a Diploma in Artificial Intelligence and Machine Learning, with a strong passion for learning AI/ML concepts and technologies, and a keen interest in developer roles.
 
 
 ## 🌐 Socials:   
