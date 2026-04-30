@@ -1,5 +1,5 @@
-# About Me:
-I am currently pursuing Diploma in Artificial Intelligence and Machine Learning, with a strong passion for learning AI/ML concepts and technologies, and a keen interest in developer roles.
+<center>Yashwant Rangrej<center/>
+Currently pursuing a Diploma in Artificial Intelligence and Machine Learning, with a strong passion for AI/ML technologies, problem-solving, and continuous learning. Enthusiastic about building innovative solutions and exploring opportunities in AI/ML and software development roles.
 
 
 ## 🌐 Socials:   
