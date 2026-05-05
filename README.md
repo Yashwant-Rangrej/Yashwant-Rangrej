@@ -1,5 +1,9 @@
 ## About me   
-Currently pursuing a Diploma in Artificial Intelligence and Machine Learning, driven by a deep passion for AI/ML technologies, innovation, and smart problem-solving. 💡 Enthusiastic about building impactful real-world solutions, exploring modern software development, and continuously learning emerging technologies. 🤖✨ Eager to contribute to innovative projects and grow as an AI/ML enthusiast and developer in the ever-evolving tech industry.
+Currently pursuing a Diploma in Artificial Intelligence and Machine Learning, with a strong passion for AI/ML technologies, innovation, and intelligent problem-solving. 💡 Enthusiastic about building impactful real-world solutions, exploring modern software development, and continuously learning emerging technologies. 🤖✨
+
+Actively contributing as a team member at [Bharath Aadhya Intelligence](https://github.com/Bharath-Aadhya-Intelligence) on GitHub, where I work on both AI-driven projects and application development based on client specifications, gaining hands-on experience in delivering practical and scalable solutions.
+
+Eager to grow as an AI/ML enthusiast and developer while contributing to meaningful, real-world projects in the ever-evolving tech industry.
 
 
 ## 🌐 Socials:   
