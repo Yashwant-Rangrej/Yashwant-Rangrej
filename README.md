@@ -4,7 +4,7 @@ Currently pursuing a Diploma in Artificial Intelligence and Machine Learning, wi
 Actively contributing as a team member at [Bharath Aadhya Intelligence](https://github.com/Bharath-Aadhya-Intelligence) on GitHub, where I work on both AI-driven projects and application development based on client specifications, gaining hands-on experience in delivering practical and scalable solutions.
 
 Eager to grow as an AI/ML enthusiast and developer while contributing to meaningful, real-world projects in the ever-evolving tech industry.
-
+ 
 
 ## 🌐 Socials:   
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashwant15rangrej@gmail.com) 
