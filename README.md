@@ -1,9 +1,9 @@
 ## About me   
-Currently pursuing a Diploma in Artificial Intelligence and Machine Learning, with a strong passion for AI/ML technologies, innovation, and intelligent problem-solving. 💡 Enthusiastic about building impactful real-world solutions, exploring modern software development, and continuously learning emerging technologies. 🤖✨
+Passionate about Artificial Intelligence and Machine Learning (AI/ML), with a strong interest in innovation, intelligent problem-solving, and building impactful real-world solutions. 💡 Enthusiastic about exploring modern software development and continuously learning emerging technologies. 🤖✨
 
 Currently working as an **AI/ML Intern at Abhyudyaya Techno Solutions**, where I gain hands-on experience in developing AI-driven applications and expanding my technical expertise through real-world projects.
 
-I am also the **Co-Founder of [Bharath Aadhya Intelligence](https://bharath-aadhya-intelligence.github.io/Bharath-Aadhya-Intellignce/)**, where I actively contribute to building innovative AI solutions, leading development initiatives, and collaborating on projects that address real-world challenges.
+I am also the **Co-Founder of Bharath Aadhya Intelligence**, where I actively contribute to building innovative AI solutions, leading development initiatives, and collaborating on projects that address real-world challenges.
 
 Additionally, I contribute as a **Team Member (Development)** at Bharath Aadhya Intelligence on GitHub, working on both AI-driven projects and client-specific application development. This role has strengthened my experience in software development, teamwork, and delivering practical, scalable, and impactful solutions.
 
