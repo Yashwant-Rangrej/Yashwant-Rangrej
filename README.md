@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Yashwant Rangrej
+<div align=center>
+<h1>👋 Hi, I'm Yashwant Rangrej</h1>
+<p>A Passionate Developer From India </p>
+<h2> About Me</h2>
 
-## 🚀 About Me
-
-Passionate about Artificial Intelligence and Machine Learning (AI/ML), with a strong interest in innovation, intelligent problem-solving, and building impactful real-world solutions. 💡 I enjoy exploring modern software development and continuously learning emerging technologies. 🤖✨
+</div>
+Passionate about Artificial Intelligence and Machine Learning (AI/ML), with a strong interest in innovation, intelligent problem-solving, and building impactful real-world solutions.  I enjoy exploring modern software development and continuously learning emerging technologies. 
 
 Currently working as an **AI/ML Intern at Abhyudyaya Techno Solutions**, where I gain hands-on experience in developing AI-driven applications and strengthening my skills through real-world projects.
 
