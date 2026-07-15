@@ -1,6 +1,12 @@
 <div align=center>
 <h1>👋 Hi, I'm Yashwant Rangrej</h1>
 <p>A Passionate Developer From India </p>
+  
+<div align="left">
+
+<img src="https://komarev.com/ghpvc/?username=Yashwant-Rangrej&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 <h2> About Me</h2>
 
 </div>
@@ -51,27 +57,52 @@ I aspire to grow as an AI/ML Engineer, Software Developer, and Entrepreneur, con
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+---
 
 ## 🎯 Goal
 
-To build intelligent AI systems and scalable software solutions that solve real-world problems and create meaningful impact.
+> To build intelligent AI systems and scalable software solutions that solve real-world problems and create meaningful impact.
+
+⭐ *"Always learning, building, and improving."*
 
 ---
 
-⭐ *“Always learning, building, and improving.”*
-# 📊 GitHub Stats:
+## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Yashwant-Rangrej&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yashwant-Rangrej&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant-Rangrej&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashwant-Rangrej&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant-Rangrej&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Yashwant-Rangrej&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yashwant-Rangrej&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yashwant-Rangrej&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yashwant-Rangrej&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yashwant-Rangrej&icon=5&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Yashwant-Rangrej&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+
+</div>
+
+---
+
+## 👀 Profile Views
