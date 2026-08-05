@@ -10,7 +10,7 @@
 <h2> About Me</h2>
 
 </div>
-Passionate about Artificial Intelligence and Machine Learning (AI/ML), with a strong interest in innovation, intelligent problem-solving, and building impactful real-world solutions.  I enjoy exploring modern software development and continuously learning emerging technologies. 
+Passionate about Artificial Intelligence and Machine Learning (AI/ML), with a strong interest in innovation, intelligent problem-solving, and building impactful real-world solutions. I enjoy exploring modern software development and continuously learning emerging technologies.
 
 Currently working as an **AI/ML Intern at [Abhyudyaya Techno Solutions](https://abhyudyayatech.com/)**, where I gain hands-on experience in developing AI-driven applications and strengthening my skills through real-world projects.
 
@@ -71,9 +71,9 @@ I aspire to grow as an AI/ML Engineer, Software Developer, and Entrepreneur, con
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashwant-Rangrej&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashwant-Rangrej&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant-Rangrej&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant-Rangrej&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -95,14 +95,12 @@ I aspire to grow as an AI/ML Engineer, Software Developer, and Entrepreneur, con
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🔝 Activity Graph
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Yashwant-Rangrej&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwant-Rangrej&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
-
-
