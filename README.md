@@ -71,15 +71,15 @@ I aspire to grow as an AI/ML Engineer, Software Developer, and Entrepreneur, con
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashwant-Rangrej&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yashwant-Rangrej&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant-Rangrej&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant-Rangrej&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Yashwant-Rangrej&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Yashwant-Rangrej&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -89,17 +89,17 @@ I aspire to grow as an AI/ML Engineer, Software Developer, and Entrepreneur, con
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yashwant-Rangrej&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Yashwant-Rangrej&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 🔝 Activity Graph
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwant-Rangrej&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwant-Rangrej&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
